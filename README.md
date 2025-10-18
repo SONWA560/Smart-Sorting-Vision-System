@@ -1,5 +1,5 @@
-# Personal_Portforlio
-Smart Waste Sorting Vision System
+# Smart Waste Sorting Vision System
+AgriTech
 Project Overview:
 As part of my IFS 315 Emerging Trends in Information Systems module, I developed a machine learning-based vision system for smart waste classification. The objective was to build an image classification model capable of automatically sorting waste into appropriate categories, contributing to more efficient recycling processes and waste management systems.
 
